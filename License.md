@@ -9,7 +9,6 @@
 | BSP Adafruit                    | BSD-3-Clause         | STMicroelectronics |
 | FreeRTOS kernel                 | MIT                  | Copyright (C) 2017 Amazon.com, Inc. or its affiliates |
 | FatFS                           | BSD-3-Clause         | ChaN - STMicroelectronics |
-| mbedTLS                         | Apache License 2.0   | ARM Limited |
 | STM32_USB_Device_Library        | SLA0044              | STMicroelectronics |
 | STM32_USBPD_Library             | SLA0044              | STMicroelectronics |
 | STM32 Projects                  | ST SLA0044 (BSD-3-Clause for basic Examples) | STMicroelectronics |
